@@ -1,0 +1,70 @@
+* {
+    box-sizing:border-box;
+    margin:0px;
+    font-family:arial;
+}
+
+body {
+    background-color:#cab9b9;
+}
+
+.title {
+    display:flex;
+    justify-content:center;
+    margin-bottom:5px;
+}
+
+.subtitle {
+    display:flex;
+    justify-content:center;
+    font-weight:lighter;
+    font-size:20px;
+}
+
+.container {
+    display:flex;
+    justify-content:center;
+}
+
+#container_img {
+    display:flex;
+    justify-content:center;
+    margin-top:30px;
+    margin-bottom:30px;
+}
+
+#ari_img {
+    width:300px;
+    height:400px;
+}
+
+figcaption {
+    text-align:center;
+    font-weight:bold;
+}
+
+.sobre {
+    display:flex;
+    justify-content:center;
+    margin-bottom:10px;
+    font-size:22px;
+}
+
+#descritp_autor {
+    display:flex;
+    text-align:center;
+    width:800px;
+    height:70px;
+}
+
+footer div {
+    background-color:#464545;
+    color:#fff;
+    font-size:15px;
+}
+
+a {
+    text-decoration:none;
+    color:#fff;
+    font-weight:bold;
+}
